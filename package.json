@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
+=======
+  "name": "angular-tour-of-heroes",
+>>>>>>> d067ad2a4e43f4c61d3f446206390d1a4b513217
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
